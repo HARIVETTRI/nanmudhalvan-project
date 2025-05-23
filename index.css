@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* You can add your custom styles below */
+body {
+  @apply bg-gradient-to-r from-sky-400 to-violet-600 text-white;
+}
